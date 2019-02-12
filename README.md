@@ -1,2 +1,3 @@
-# Fracturas
-Conocer el uso de fracturasen blender
+# Fracturas.
+
+- Conocer el uso de fracturasen blender.
